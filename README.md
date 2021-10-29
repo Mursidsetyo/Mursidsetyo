@@ -1,4 +1,4 @@
-<a href="#"><img width="auto" height="auto" src="img/Clip_Applying_to_University_online_transparent_by_Icons8.gif" height="100px"/></a>
+<a href="#"><img width="auto" height="auto" src="img/Clip_Applying_to_University_online_transparent_by_Icons8.gif"/></a>
 
 <h1 align="center">Hi<img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">, I'm Mursid Setyo</h1>
 <h3 align="center">I'm a Passionate With Quality Assurance, System Analyst, Bussines Analyst, Frontend Developer & UI/UX Design</h3>
@@ -46,3 +46,6 @@
 <a href = "https://www.youtube.com/channel/UCtpCYQdwiOEx0eecuOkbG2Q"><img src="https://img.icons8.com/color/48/000000/youtube-play.png"/></a>
 
 </p>
+
+
+#std.io
